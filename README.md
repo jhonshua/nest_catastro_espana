@@ -86,7 +86,10 @@ Municipio: Barcelona
 Referencia catastral de una propiedad en Barcelona:
 
 json send body
-
+9035401DF2893E0003XL
+9035401DF2893E0004MB
+9035401DF2893E0006WX
+9035401DF2893E0018AI
 
 ```json
 
